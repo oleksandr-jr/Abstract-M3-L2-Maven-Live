@@ -6,7 +6,17 @@
 
     <groupId>org.javarush.oleksandr</groupId>
     <artifactId>print-utills</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
+
+    <distributionManagement>
+        <repository>
+            <id>github-live-example</id>
+            <url>https://maven.pkg.github.com/oleksandr-jr/Abstract-M3-L2-Maven-Live</url>
+        </repository>
+
+    </distributionManagement>
+
+
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
