@@ -11,6 +11,7 @@
     <distributionManagement>
         <repository>
             <id>github-live-example</id>
+            <name>TEST</name>
             <url>https://maven.pkg.github.com/oleksandr-jr/Abstract-M3-L2-Maven-Live</url>
         </repository>
 
